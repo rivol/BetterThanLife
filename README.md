@@ -1,4 +1,4 @@
-BetterThanLife
-==============
+Better Than Life
+================
 
-Oculus Rift game created at IGDA Estonia Game Jam 2014
+An Oculus Rift game created at IGDA Estonia Game Jam 2014
