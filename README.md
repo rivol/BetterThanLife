@@ -9,6 +9,8 @@ Hopefully you can dodge them...
 Requirements and installation
 -----------------------------
 
+**Windows binaries [can be found here](../../releases/latest)** (the .zip file)
+
 Oculus Rift DK2 is required to run the game. Since the game depends on the head-tracking, DK1 will unfortunately not work.
 
 Windows binaries are available in addition to source code. To play, download the zip file from the [release page](../../releases/latest), then unzip it and run `BetterThanLife_DirectToRift.exe` with your Oculus Rift connected.
