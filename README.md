@@ -15,6 +15,8 @@ Oculus Rift DK2 is required to run the game. Since the game depends on the head-
 
 Windows binaries are available in addition to source code. To play, download the zip file from the [release page](../../releases/latest), then unzip it and run `BetterThanLife_DirectToRift.exe` with your Oculus Rift connected.
 
+While playing, you can press R or Return to reset the camera's position.
+
 Screenshots
 -----------
 
